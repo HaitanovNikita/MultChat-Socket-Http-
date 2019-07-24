@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Files/file.txt</name>
+			<type>1</type>
+			<location>C:/Users/User/IdeaProjects/SocketChat2/Files/file.txt</location>
+		</link>
+	</linkedResources>
 </projectDescription>
